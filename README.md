@@ -6,7 +6,8 @@ By Caesar Passee
 2016
 
 # Parts and components
-
+ ......//(clearication needed)
 # How it works
-
+ ......//(clearication needed)
 # Build your own
+ ......//(clearication needed)
