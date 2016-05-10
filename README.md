@@ -7,6 +7,6 @@ By Caesar Passee
 
 # Parts and components
 
-# How it work
+# How it works
 
 # Build your own
