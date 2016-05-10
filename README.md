@@ -11,6 +11,7 @@ By Caesar Passee
  ......//(clarification needed)
  
   Start with Ardunio Knock code
+  
   Read Analog pin for input from piezo sensors triggers an event
   Prints and auto analyse what you play to LCD and via serial port. 
   Outputs to midi module or computer 
