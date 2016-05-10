@@ -22,6 +22,10 @@ By Caesar Passee
   The steeldrum are the only musical instrument that I can think of on which the tones are not 
   arranged in linear oder. 
   TO BE CONTINUED.....
+  
+  # Requirments 
+   pitches.h
+   (other libraries)
 # Build your own
  ......//(clarification needed)
  
