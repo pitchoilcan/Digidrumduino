@@ -18,8 +18,8 @@ By Caesar Passee
   Pedal input for sustain, reverb, etc and for changing voice/instrument types
   Tuning is key! This is where it gets intersting 
   The steeldrum is the only musical instrument that I can think of where the tones are note 
-  arranged in linear oder. Therefor........
-  
+  arranged in linear oder. 
+  TO BE CONTINUED.....
 # Build your own
  ......//(clarification needed)
 # Contribute 
