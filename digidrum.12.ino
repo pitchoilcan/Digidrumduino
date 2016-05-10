@@ -1,10 +1,10 @@
 /*
 Componets & Pins: 
-      Mux 2,3,4,5, +, -,
+      Multiplexing 2,3,4,5, +, -,
       MCP2317 I2C Port Expander 20,21 +, -, (For driving LEDS INDICAROTORS)
       Speaker or Piezo BUZZER OUT (Tone) 14
       Midi_Out: TX, +, -, MIDI_IN: RX,
-      Audio I/O 6,7 (8.2),(9, 10), 50,51,52, +, -,
+      Audio vs1053 I/O 6,7 (8.2),(9, 10), 50,51,52, +, -,
       LCD 32.33.34.35.36.37,(38) +, -, 
       LEDS and Buttons 24.25.26.27.28.29.30.31.39,40,41,42,43,44,,45,46,47,48,
       Excptions, VS1053's DREQ has been modfied in library from pin 2 to pin 9 as 2 is being used by mux
