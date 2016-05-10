@@ -6,10 +6,10 @@ By Caesar Passee
 2016
 
 # Parts and components
- ......//(clearication needed)
+ ......//(clarification needed)
 # How it works
- ......//(clearication needed)
+ ......//(clarification needed)
 # Build your own
- ......//(clearication needed)
+ ......//(clarification needed)
 # Contribute 
-  ......(clearication needed)
+  ......(clarification needed)
