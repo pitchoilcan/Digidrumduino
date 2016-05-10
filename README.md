@@ -19,7 +19,7 @@ By Caesar Passee
   LED note and activity sensor (one per note)
   Pedal inputs for sustain, reverb, etc and for changing voice/instrument types
   Tuning is key! This is where it gets intersting 
-  The steeldrum are the only musical instrument that I can think of on which the tones are note 
+  The steeldrum are the only musical instrument that I can think of on which the tones are not 
   arranged in linear oder. 
   TO BE CONTINUED.....
 # Build your own
