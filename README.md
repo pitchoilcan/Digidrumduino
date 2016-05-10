@@ -4,3 +4,9 @@ build using an Arduino micro-processor.
 By Caesar Passee
 (pitchoican at gmail dot com)
 2016
+
+# Parts and components
+
+# How it work
+
+# Build your own
