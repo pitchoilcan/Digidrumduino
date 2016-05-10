@@ -23,9 +23,9 @@ By Caesar Passee
   arranged in linear oder. 
   TO BE CONTINUED.....
   
-  # Requirments 
+   # Requirments 
    pitches.h
-   (other libraries)
+   ( & other libraries)
 # Build your own
  ......//(clarification needed)
  
