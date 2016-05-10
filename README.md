@@ -25,7 +25,7 @@ By Caesar Passee
   
 #   Requirments 
    pitches.h
-   ( & other libraries)
+   (& other libraries)
 # Build your own
  ......//(clarification needed)
  
