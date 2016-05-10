@@ -9,6 +9,7 @@ By Caesar Passee
  ......//(clarification needed)
 # How it works
  ......//(clarification needed)
+ 
   Start with Ardunio Knock code
   Read Analog pin for input from piezo sensors triggers an event
   Prints and auto analyse what you play to LCD and via serial port. 
@@ -22,5 +23,7 @@ By Caesar Passee
   TO BE CONTINUED.....
 # Build your own
  ......//(clarification needed)
+ 
+ Stay tuned
 # Contribute 
   ......(clarification needed)
