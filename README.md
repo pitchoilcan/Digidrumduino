@@ -52,6 +52,7 @@ By Caesar Passee
    Wire.h // I2C //
    
    SD.h> // VS1053's SD card
+   
    SPI.h // VS1053 //
 # Build your own
  ......//(clarification needed)
