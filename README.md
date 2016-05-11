@@ -28,7 +28,7 @@ By Caesar Passee
   One notable characteristic Cycles or cyclics is that they end where they began.
   
 #   Requirments 
-   pitches.h
+   pitches.h // https://github.com/arduino/Arduino/blob/master/build/shared/examples/02.Digital/toneMelody/pitches.h
    (& other libraries)
 # Build your own
  ......//(clarification needed)
