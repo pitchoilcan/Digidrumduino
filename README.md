@@ -38,11 +38,11 @@ By Caesar Passee
    
    LiquidCrystal.h // LCD //
    
-   MIDI.h //MiDI-IN  //
+   MIDI.h // MiDI-IN  //
    
    EEPROM.h  //  Memory //
    
-   Wire.h //I2C //
+   Wire.h // I2C //
 # Build your own
  ......//(clarification needed)
  
