@@ -14,11 +14,17 @@ By Caesar Passee
   Start with Ardunio Knock code
   
   Read Analog pin for input from piezo sensors triggers an event
-  Prints and auto analyse what you play to LCD and via serial port. 
-  Outputs to midi module or computer 
-  Outputs to GM wavetable
+  
+  Prints and auto analyse what you play to LCD and via serial port.
+  
+  Outputs to midi module or computer
+  
+  Outputs to GM onboard wavetable
+  
   LED note and activity sensor (one per note)
+  
   Pedal inputs for sustain, reverb, etc and for changing voice/instrument types
+  
   Tuning is key! This is where it gets intersting 
   The steeldrum are the only musical instrument that I can think of on which the tones are not 
   arranged in linear oder. 
