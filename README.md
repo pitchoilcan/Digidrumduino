@@ -43,6 +43,9 @@ By Caesar Passee
    EEPROM.h  //  Memory //
    
    Wire.h // I2C //
+   
+   SD.h> // VS1053's SD card
+   SPI.h // VS1053 //
 # Build your own
  ......//(clarification needed)
  
