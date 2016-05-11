@@ -19,7 +19,7 @@ By Caesar Passee
   
   Outputs to midi module or computer
   
-  Outputs to GM onboard wavetable
+  Outputs to onboard GM wavetable, builtin and external speakers
   
   LED note and activity sensor (one per note)
   
