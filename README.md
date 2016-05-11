@@ -13,7 +13,7 @@ By Caesar Passee
 #                       MIDI :   Musical Instrument Digital Interface
   Start with Ardunio Knock code
   
-  Read 48 Analog pins for input from piezo sensors to trigger events
+  Read 48 Analog pins for input from piezo sensors and trigger an event based on set conditions 
   
   Prints and auto analyse what you play to LCD and via serial port.
   
