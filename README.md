@@ -2,7 +2,7 @@
 A midi Steelpan (Steeldrum) Synth,
 built using the Arduino microcontroller.
 By Caesar Passee
-(pitchoican at gmail dot com)
+(pitchoilcan at gmail dot com)
 2016
 
 # Parts and components
