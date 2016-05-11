@@ -30,7 +30,13 @@ By Caesar Passee
 #   Requirments 
    pitches.h // https://github.com/arduino/Arduino/blob/master/build/shared/examples/02.Digital/toneMelody/pitches.h
    
-   (& other libraries)
+   (other libraries)
+   //Adafruit_MCP23017 // Port expander
+   //<MusicPlayer.h>  // VS1053 //
+   //<LiquidCrystal.h> // LCD //
+   //<MIDI.h> //MiDI-IN Setup //
+   //<EEPROM.h>  //  Memory //
+   //<Wire.h> //I2C //
 # Build your own
  ......//(clarification needed)
  
