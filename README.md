@@ -59,6 +59,7 @@ By Caesar Passee
 #  The sensors (scalability i.e. up to 48)
   
   Tunability (variable tone cycles)
+  
   Adjustabe input sensitivity. 
  
  Stay tuned!
