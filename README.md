@@ -31,13 +31,14 @@ By Caesar Passee
    pitches.h // https://github.com/arduino/Arduino/blob/master/build/shared/examples/02.Digital/toneMelody/pitches.h
    
    (other libraries)
+   
    Adafruit_MCP23017 // Port expander //
    
    MusicPlayer.h  // VS1053 //
    
    LiquidCrystal.h // LCD //
    
-   MIDI.h //MiDI-IN Setup //
+   MIDI.h //MiDI-IN  //
    
    EEPROM.h  //  Memory //
    
