@@ -40,13 +40,13 @@ Spring 2016
 #                       MIDI :   Musical Instrument Digital Interface
   EPISODE: Start with Ardunio Knock code
   
-  Read up to 48 Analog pins for INPUT from PIEZO SENSORS and TRIGGER an EVENT based on a SET CONDITIONS ......//(clarification needed) Each NOTE of the instrument is assiggned a (PIEZO) TOUCH SENSOR, VELOCITY is determind by how hard or softly you TOUCH the SENSOR. 
+  READ up to 48 Analog pins for INPUT from PIEZO SENSORS and TRIGGER an EVENT based on a SET CONDITIONS ......//(clarification needed) Each NOTE of the instrument is assiggned a (PIEZO) TOUCH SENSOR, VELOCITY is determind by how hard or softly you TOUCH the SENSOR. 
   
-  Prints and auto analyse what you play (NOTES) (INPUT) to LCD and via serial port.
+  WRITE/Prints and auto analyse what you play (NOTES) (INPUT) to LCD and via serial port.
   
-  OUTPUT MIDI DATA to midi-module, midi-keybord or computer
+  WRITE/OUTPUT MIDI DATA to midi-module, midi-keybord or computer
   
-  OUTPUT AUDIO to onboard GM wavetable(vs1053b) via builtin and external speakers
+  WRITE/OUTPUT AUDIO to onboard GM wavetable(vs1053b) via builtin and external speakers
   
   LED NOTE and activity sensor (one per NOTE)
   
