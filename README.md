@@ -23,7 +23,7 @@ By Caesar Passee
  
  8 ControlChange  pushbutton switches
  
- 8 controlChange indicator LED (1 per CC pushbutton)
+ 8 controlChange indicator LEDs (1 per CC pushbutton)
  
  Piezo buzzer/8ohm speaker out
  
