@@ -6,7 +6,19 @@ By Caesar Passee
 2016
 
 # Parts and components
- ......//(clarification needed)
+ 
+ up to 48 Input sensors (1 per note)
+ up to 48 Note activity indicating LED's (1 per input sensor)
+ MayhewLabs Mux shield
+ MCP23017 - i2c 16 input/output port expande
+ SparkFun MIDI Shield
+ Arduino MP3 shield board with TF card
+ HD44780 16*2 LCD
+ 8 ControlChange  pushbutton switches
+ 8 controlChange indicator LED (1 per CC pushbutton)
+ Piezo buzzer/speaker out
+ Volume control pot
+ 
 # How it works
  ......//(clarification needed)
  
