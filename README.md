@@ -25,7 +25,7 @@ By Caesar Passee
  
  8 controlChange indicator LEDs (1 per CC pushbutton)
  
- Piezo buzzer/8ohm speaker output
+ Piezo buzzer/8ohm speaker OUTPUT
  
  3 foot pedals (SUS and CC
  
@@ -39,15 +39,15 @@ By Caesar Passee
 #                       MIDI :   Musical Instrument Digital Interface
   EPISODE: Start with Ardunio Knock code
   
-  Read up to 48 Analog pins for input from piezo sensors and trigger an event based on set conditions ......//(clarification needed) Each note of the instrument is assiggned a TOUCH sensor, volocity is determind by how hard or softly you touch the sensor. 
+  Read up to 48 Analog pins for INPUT from PIEZO SENSORS and trigger an event based on set conditions ......//(clarification needed) Each NOTE of the instrument is assiggned a TOUCH sensor, VELOCITY is determind by how hard or softly you TOUCH the SENSOR. 
   
   Prints and auto analyse what you play to LCD and via serial port.
   
-  Outputs MIDI DATA to midi-module, midi-keybord or computer
+  OUTPUT MIDI DATA to midi-module, midi-keybord or computer
   
-  Outputs AUDIO to onboard GM wavetable(vs1053b) via builtin and external speakers
+  OUTPUT AUDIO to onboard GM wavetable(vs1053b) via builtin and external speakers
   
-  LED note and activity sensor (one per note)
+  LED NOTE and activity sensor (one per NOTE)
   
   Pedal inputs for sustain, reverb, etc and for changing voice/instrument types
   
@@ -63,7 +63,7 @@ By Caesar Passee
   
   ---------------------------------------------------------------------------
   
-  (1 note at a time, = Melody, more than 1 Note a time = Harmony, Time = Rhythm;)   
+  (1 NOTE at a time, = Melody, more than 1 NOTE a time = Harmony, Time = Rhythm;)   
   
   ----------------------------------------------------------------------------
   
