@@ -15,9 +15,9 @@ By Caesar Passee
  
  MCP23017 - i2c 16 input/output port expander
  
- SparkFun MIDI Shield
+ SparkFun MIDI Shield - MIDI-IN  . MIDI-OUT ports
  
- Arduino MP3 shield board with TF card
+ Arduino MP3 shield board with TF card - Headphones audio out , Micophone ib , micro-SD card
  
  HD44780 16*2 LCD
  
@@ -25,7 +25,7 @@ By Caesar Passee
  
  8 controlChange indicator LED (1 per CC pushbutton)
  
- Piezo buzzer/speaker out
+ Piezo buzzer/8ohm speaker out
  
  3 foot pedals (SUS and CC
  
