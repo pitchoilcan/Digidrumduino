@@ -4,7 +4,7 @@ built using an Arduino microcontroller.
 By Caesar Passee
 (pitchoilcan at gmail dot com)
 
-2016
+Spring 2016
 
 # Parts and components
 
