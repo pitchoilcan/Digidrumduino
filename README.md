@@ -79,7 +79,7 @@ By Caesar Passee
    
    SPI.h // VS1053 //
 # Build your own
- ......//(clarification needed)
+ DIY instructions coming soon!
 #  The sensors (scalability i.e. up to 48)
   
   Tunability (variable tone cycles)
