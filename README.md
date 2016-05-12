@@ -37,9 +37,9 @@ By Caesar Passee
  ......//(clarification needed)
  
 #                       MIDI :   Musical Instrument Digital Interface
-  Start with Ardunio Knock code
+  EPISODE: Start with Ardunio Knock code
   
-  Read up to 48 Analog pins for input from piezo sensors and trigger an event based on set conditions 
+  Read up to 48 Analog pins for input from piezo sensors and trigger an event based on set conditions ......//(clarification needed) Each note of the instrument is assiggned a TOUCH sensor, volocity is determind by how hard or softly you touch the sensor. 
   
   Prints and auto analyse what you play to LCD and via serial port.
   
@@ -52,6 +52,7 @@ By Caesar Passee
   Pedal inputs for sustain, reverb, etc and for changing voice/instrument types
   
   Tuning is key! This is where it gets intersting 
+#  Arrangement /Deveopment
   The steeldrum is the only musical instrument that I can think of on which the tones are not 
   arranged in linear oder. 
   TO BE CONTINUED.....
