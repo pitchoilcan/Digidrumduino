@@ -102,6 +102,6 @@ By Caesar Passee
   
   Adjustabe input sensitivity. 
   
-#  CONTRIB  | CORE-PRINCIPLES |  OTHER USE CASES
+#  CONTRIB  | CORE-PRINCIPLES |  OTHER USE CASES | 
  
  Stay tuned!
