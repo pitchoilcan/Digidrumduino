@@ -6,6 +6,8 @@ By Caesar Passee
 2016
 
 # Parts and components
+
+ An arduino mega
  
  up to 48 Input sensors (1 per note)
  
