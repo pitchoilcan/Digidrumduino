@@ -27,6 +27,8 @@ By Caesar Passee
  
  Piezo buzzer/speaker out
  
+ 3 foot pedals (SUS and CC
+ 
  Volume control pot
  
  An Arduino Mega
