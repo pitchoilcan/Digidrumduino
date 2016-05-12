@@ -7,13 +7,13 @@ By Caesar Passee
 
 # Parts and components
 
- up to 48 Input (Piezo) sensors (1 per note)
+ up to 48 INPUT (Piezo) sensors (1 per NOTE)
  
- up to 48 Note activity indicating LED's (1 per INPUT sensor)
+ up to 48 NOTE activity indicating LED's (1 per INPUT sensor)
  
  MayhewLabs Mux shield
  
- MCP23017 - i2c 16 input/output port expander
+ MCP23017 - i2c 16 INPUT/OUT port expander
  
  SparkFun MIDI Shield - MIDI-IN  . MIDI-OUT ports
  
@@ -27,7 +27,7 @@ By Caesar Passee
  
  Piezo buzzer/8ohm speaker OUTPUT
  
- 3 foot pedals (SUS and CC
+ 3 foot pedals (SUS and CC )
  
  Volume control pot
  
