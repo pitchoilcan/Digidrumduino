@@ -92,9 +92,9 @@ Spring 2016
    
    MIDI.h // MiDI-IN  //
    
-   EEPROM.h  //  Memory //
+   EEPROM.h  //  Memory // Electrically Erasable Programmable Read-Only Memory
    
-   Wire.h // I2C //
+   Wire.h // I2C // 
    
    SD.h> // VS1053's SD card
    
