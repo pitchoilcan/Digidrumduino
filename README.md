@@ -7,8 +7,6 @@ By Caesar Passee
 
 # Parts and components
 
- An arduino mega
- 
  up to 48 Input sensors (1 per note)
  
  up to 48 Note activity indicating LED's (1 per input sensor)
@@ -30,6 +28,8 @@ By Caesar Passee
  Piezo buzzer/speaker out
  
  Volume control pot
+ 
+ An Arduino Mega
  
 # How it works
  ......//(clarification needed)
