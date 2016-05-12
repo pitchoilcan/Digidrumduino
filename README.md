@@ -34,7 +34,7 @@ By Caesar Passee
  An Arduino Mega
  
 # How it works
- ......//(clarification needed)
+ ......//(clarification needed) Traditionay a modern steeldrums have a maximum range of two octave plus or minus a few notes (no more than five) 24+5. A pan with 48 notes? WTF. Immging the possibilties.
  
 #                       MIDI :   Musical Instrument Digital Interface
   EPISODE: Start with Ardunio Knock code
