@@ -41,7 +41,7 @@ By Caesar Passee
   
   Read up to 48 Analog pins for INPUT from PIEZO SENSORS and trigger an event based on set conditions ......//(clarification needed) Each NOTE of the instrument is assiggned a TOUCH sensor, VELOCITY is determind by how hard or softly you TOUCH the SENSOR. 
   
-  Prints and auto analyse what you play to LCD and via serial port.
+  Prints and auto analyse what you play (NOTES) to LCD and via serial port.
   
   OUTPUT MIDI DATA to midi-module, midi-keybord or computer
   
@@ -49,7 +49,7 @@ By Caesar Passee
   
   LED NOTE and activity sensor (one per NOTE)
   
-  Pedal inputs for sustain, reverb, etc and for changing voice/instrument types
+  Pedal INPUT for SUSTAIN, REVERB, etc and for changing voice/instrument types
   
   --------------------------------------------------
   
