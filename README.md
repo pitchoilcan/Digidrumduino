@@ -83,7 +83,8 @@ By Caesar Passee
 # Build your own
  DIY instructions coming soon!
 #  The sensors (scalability i.e. up to 48)
-  
+
+ Ingredenice: (Per input sensor) 1 piezo , 1 resistor, 1 capacitor 1 schottky diode;
   Tunability (variable tone cycles)
   
   Adjustabe input sensitivity. 
