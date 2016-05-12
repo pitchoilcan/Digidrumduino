@@ -39,9 +39,9 @@ By Caesar Passee
 #                       MIDI :   Musical Instrument Digital Interface
   EPISODE: Start with Ardunio Knock code
   
-  Read up to 48 Analog pins for INPUT from PIEZO SENSORS and trigger an event based on set conditions ......//(clarification needed) Each NOTE of the instrument is assiggned a TOUCH sensor, VELOCITY is determind by how hard or softly you TOUCH the SENSOR. 
+  Read up to 48 Analog pins for INPUT from PIEZO SENSORS and TRIGGER an eEVENT based on SET CONDITIONS ......//(clarification needed) Each NOTE of the instrument is assiggned a (PIEZO) TOUCH SENSOR, VELOCITY is determind by how hard or softly you TOUCH the SENSOR. 
   
-  Prints and auto analyse what you play (NOTES) to LCD and via serial port.
+  Prints and auto analyse what you play (NOTES) (INPUT) to LCD and via serial port.
   
   OUTPUT MIDI DATA to midi-module, midi-keybord or computer
   
