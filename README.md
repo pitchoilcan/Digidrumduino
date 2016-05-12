@@ -43,9 +43,9 @@ By Caesar Passee
   
   Prints and auto analyse what you play to LCD and via serial port.
   
-  Outputs to midi module or computer
+  Outputs MIDI DATA to midi-module, midi-keybord or computer
   
-  Outputs to onboard GM wavetable, builtin and external speakers
+  Outputs AUDIO to onboard GM wavetable(vs1053b) via builtin and external speakers
   
   LED note and activity sensor (one per note)
   
