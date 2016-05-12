@@ -97,7 +97,7 @@ Spring 2016
  DIY instructions coming soon!
 #  The sensors (scalability i.e. up to 48)
 
- Ingredients: (Per input sensor) 1 piezo , 1 resistor, 1 capacitor 1 schottky diode;
+ Ingredients: (Per INPUT sensor) 1 piezo , 1 resistor, 1 capacitor 1 schottky diode;
  
   Tunability (various (editable)tone cycles)
   
