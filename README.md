@@ -37,6 +37,8 @@ Spring 2016
 # How it works
  Modern steeldrums have a maximum range of two OCTAVES, plus or minus a few NOTES (no more than five) 24+5. A pan (a.k.a steeldrum) with 48 notes? WTF! Immging the possibilties.
  
+ A multiplexer or demultiplexer enables you to expand the in-and outputs on your Arduino board.
+ 
 #                       MIDI :   Musical Instrument Digital Interface
   EPISODE: Start with Ardunio Knock code (how to use a Piezo element to detect vibration)
   
