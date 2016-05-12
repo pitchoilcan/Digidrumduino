@@ -7,7 +7,7 @@ By Caesar Passee
 
 # Parts and components
 
- up to 48 Input sensors (1 per note)
+ up to 48 Input (Piezo) sensors (1 per note)
  
  up to 48 Note activity indicating LED's (1 per input sensor)
  
