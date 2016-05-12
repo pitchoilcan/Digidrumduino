@@ -101,5 +101,7 @@ By Caesar Passee
   Tunability (various (editable)tone cycles)
   
   Adjustabe input sensitivity. 
+  
+  # Contrib  | CORE-PRINCIPLES |  OTHER USE CASES
  
  Stay tuned!
