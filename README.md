@@ -38,7 +38,11 @@ Spring 2016
  Modern steeldrums have a maximum range of two OCTAVES, plus or minus a few NOTES (no more than five) 24+5. A pan (a.k.a steeldrum) with 48 notes? WTF! Immging the possibilties.
  
 #                       MIDI :   Musical Instrument Digital Interface
-  EPISODE: Start with Ardunio Knock code
+  EPISODE: Start with Ardunio Knock code (how to use a Piezo element to detect vibration)
+  
+  
+  A piezo is an electronic device that generates a voltage when it's physically deformed by a vibration, sound wave, or mechanical strain. Similarly, when you put a voltage across a piezo, it vibrates and creates a tone. Piezos can be used both to play tones and to detect tones. 
+  
   
   READ up to 48 Analog pins for INPUT from PIEZO SENSORS and TRIGGER an EVENT based on a SET CONDITIONS ......//(clarification needed) Each NOTE of the instrument is assiggned a (PIEZO) TOUCH SENSOR, VELOCITY is determind by how hard or softly you TOUCH the SENSOR. 
   
