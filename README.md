@@ -63,7 +63,7 @@ By Caesar Passee
   
   ---------------------------------------------------------------------------
   
-  One note at a time = Melody more than one Note a time = Harmony Time = Rhythm   
+  (1 note at a time, = Melody, more than 1 Note a time = Harmony, Time = Rhythm;)   
   
   ----------------------------------------------------------------------------
   
