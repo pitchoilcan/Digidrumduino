@@ -25,7 +25,7 @@ By Caesar Passee
  
  8 controlChange indicator LEDs (1 per CC pushbutton)
  
- Piezo buzzer/8ohm speaker out
+ Piezo buzzer/8ohm speaker output
  
  3 foot pedals (SUS and CC
  
