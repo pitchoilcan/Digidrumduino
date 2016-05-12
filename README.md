@@ -85,7 +85,8 @@ By Caesar Passee
 #  The sensors (scalability i.e. up to 48)
 
  Ingredients: (Per input sensor) 1 piezo , 1 resistor, 1 capacitor 1 schottky diode;
-  Tunability (variable tone cycles)
+ 
+  Tunability (various (editable)tone cycles)
   
   Adjustabe input sensitivity. 
  
