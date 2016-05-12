@@ -57,7 +57,7 @@ By Caesar Passee
   TO BE CONTINUED.....
   
   You've heard it said that music is all numbers. Midi notes are numbered 0-126, 60 being middle C.
-  likewise volume is scaled from 0-127. Frequencies in Hertz. Differnt members of the steeldrum familly uses tone cycles
+  likewise volume is scaled from 0-127. Frequencies in Hertz. Different members of the steeldrum familly use diferent tone cycles..........More info here......
   One notable characteristic Cycles or cyclics is that they end where they began.
   
 #   Requirments 
