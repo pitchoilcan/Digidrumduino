@@ -9,7 +9,7 @@ By Caesar Passee
 
  up to 48 Input (Piezo) sensors (1 per note)
  
- up to 48 Note activity indicating LED's (1 per input sensor)
+ up to 48 Note activity indicating LED's (1 per INPUT sensor)
  
  MayhewLabs Mux shield
  
@@ -17,7 +17,7 @@ By Caesar Passee
  
  SparkFun MIDI Shield - MIDI-IN  . MIDI-OUT ports
  
- Arduino MP3 shield board with TF card - Headphones audio out , Micophone ib , micro-SD card
+ Arduino MP3 shield board with TF card - Headphones audio OUT , Microphone IN , micro-SD card
  
  HD44780 16*2 LCD
  
