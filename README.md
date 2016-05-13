@@ -70,7 +70,7 @@ Spring 2016
   
   Ten tone scales
   
-  Other scales and modalities 
+  Other scales and modalities.....
   
   --------------------------------------------------
 #  Arrangement /Deveopment
