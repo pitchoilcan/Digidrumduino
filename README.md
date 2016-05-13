@@ -92,6 +92,10 @@ Spring 2016
   One notable characteristic Cycles or cyclics is that they end where they began.
   
 #   Requirments 
+  Tone library // 
+  
+  A sound synthesizer (usually abbreviated as "synthesizer" or "synth", also spelled "synthesiser") is an electronic musical instrument that generates electric signals that are converted to sound through instrument amplifiers and loudspeakers or headphones. 
+
    pitches.h // https://github.com/arduino/Arduino/blob/master/build/shared/examples/02.Digital/toneMelody/pitches.h
    
    (other libraries)
