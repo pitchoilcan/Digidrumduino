@@ -68,9 +68,9 @@ Spring 2016
   
   pentatonic five note sclaes
   
-  10 tone scales
+  Ten tone scales
   
-  Other scales......
+  Other scales and modalities 
   
   --------------------------------------------------
 #  Arrangement /Deveopment
