@@ -60,7 +60,7 @@ Spring 2016
   
   --------------------------------------------------
   
-  Tuning is key! This is where it gets intersting 
+  Tuning is key! This is where it gets interesting 
   
   --------------------------------------------------
 #  Arrangement /Deveopment
