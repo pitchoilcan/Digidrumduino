@@ -119,7 +119,13 @@ Spring 2016
  
   Tunability (various (editable)tone cycles)
   
-  Adjustabe INPUT SENSIBILITY. 
+  Adjustabe INPUT SENSIBILITY.
+  
+  ------------------------------
+  
+  Sampling capabiities 
+  
+  ---------------------------------
   
 #  CONTRIB  | CORE-PRINCIPLES |  OTHER USE CASES | ADD-ONS
  
