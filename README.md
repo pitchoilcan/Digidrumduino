@@ -1,7 +1,7 @@
 # Digidrumduino
 A MIDI (Digital) Steelpan (Steeldrum) (Synth),
 built using an Arduino microcontroller.
-By Caesar Passee
+By Caesar Passée
 (pitchoilcan at gmail dot com)
 
 Spring 2016
