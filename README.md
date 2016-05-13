@@ -30,7 +30,7 @@ Spring 2016
  
  3 foot pedals (SUS and CC )
  
- Volume control pot
+ Volume control potentiometer
  
  An Arduino Mega
  
