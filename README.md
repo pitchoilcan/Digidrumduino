@@ -62,6 +62,16 @@ Spring 2016
   
   Tuning is key! This is where it gets interesting 
   
+  In music theory, a diatonic scale (or heptatonia prima) is a scale composed of seven distinct pitch classes.
+  
+  The chromatic scale is a musical scale with twelve pitches, each a semitone above or below another.
+  
+  pentatonic five note sclaes
+  
+  10 tone scales
+  
+  Other scales......
+  
   --------------------------------------------------
 #  Arrangement /Deveopment
   The steeldrum is the only musical instrument that I can think of on which the tones are not 
