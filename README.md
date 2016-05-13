@@ -35,7 +35,7 @@ Spring 2016
  An Arduino Mega
  
 # How it works
- Modern steeldrums have a maximum range of two OCTAVES, plus or minus a few NOTES (no more than five) 24+5. A pan (a.k.a steeldrum) with 48 notes? WTF! Immging the possibilties.
+ Modern steeldrums have a maximum range of two OCTAVES, plus or minus a few NOTES (no more than five) 24+5. A pan (a.k.a steeldrum) with 48 notes? WTF! Oh the possibilties.
  
  A multiplexer or demultiplexer enables you to expand the in-and outputs on your Arduino board.
  
