@@ -46,7 +46,7 @@ Spring 2016
   A piezo is an electronic device that generates a voltage when it's physically deformed by a vibration, sound wave, or mechanical strain. Similarly, when you put a voltage across a piezo, it vibrates and creates a tone. Piezos can be used both to play tones and to detect tones. 
   
   
-  READ up to 48 Analog pins for INPUT from PIEZO SENSORS and TRIGGER an EVENT (NOTE_ON NOTE_OFF) based on a SET CONDITIONS (STICK_ON,STICK_OFF)  Each NOTE of the instrument is assiggned a (PIEZO) TOUCH SENSOR, VELOCITY is determind by how hard or softly you TOUCH the SENSOR. 
+  READ up to 48 Analog pins for INPUT from PIEZO SENSORS and TRIGGER an EVENT (NOTE_ON NOTE_OFF) based on a SET CONDITIONS (STICK_ON,STICK_OFF).  Each NOTE of the instrument is assiggned a (PIEZO) TOUCH SENSOR, VELOCITY is determind by how hard or softly you TOUCH the SENSOR. 
   
   WRITE/Prints and auto analyse what you play (NOTES) (INPUT) to LCD and via serial port.
   
