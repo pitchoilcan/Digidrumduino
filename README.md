@@ -66,11 +66,13 @@ Spring 2016
   
   The chromatic scale is a musical scale with twelve pitches, each a semitone above or below another.
   
-  pentatonic five note sclaes
+  Pentatonic five note sclaes
   
   Ten tone scales
   
   Other scales and modalities.....
+  
+  tuning is result of the number of division of the ovtave
   
   --------------------------------------------------
 #  Arrangement /Deveopment
@@ -85,7 +87,6 @@ Spring 2016
   (1 NOTE at a time, = Melody, more than 1 NOTE a time = Harmony, Time = Rhythm;)   
   
   ----------------------------------------------------------------------------
-  
   
   You've heard it said that music is all numbers. Midi notes are numbered 0-126, 60 being middle C.
   likewise volume is scaled from 0-127. Frequencies in Hertz..... 
