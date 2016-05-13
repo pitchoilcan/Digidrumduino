@@ -87,7 +87,8 @@ Spring 2016
   Cycles of thirds
   
   Cycles of seconds 
-  
+    
+    Dividing an octave:
   One notable characteristic Cycles or cyclics is that they end where they began.
   
 #   Requirments 
