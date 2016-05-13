@@ -74,7 +74,9 @@ Spring 2016
   
   --------------------------------------------------
 #  Arrangement /Deveopment
-  The steeldrum is the only musical instrument that I can think of on which the tones are not 
+
+  Steeldrum are musical instruments of FIXED or definate pitch.
+  They are also the only musical instrument that I can think of on which the tones are not 
   arranged in linear oder. 
   TO BE CONTINUED....
   
