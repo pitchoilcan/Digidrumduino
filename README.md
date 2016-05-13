@@ -137,5 +137,11 @@ Spring 2016
   ---------------------------------
   
 #  CONTRIB  | CORE-PRINCIPLES |  OTHER USE CASES | ADD-ONS
+
+---------------------------------
+
+Effects
+
+---------------------------------
  
  Stay tuned!
