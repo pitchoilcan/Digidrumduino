@@ -72,7 +72,7 @@ Spring 2016
   
   Other scales and modalities.....
   
-  tuning is result of the number of division of the ovtave
+  tuning is result of the number of divisions of the ovtave
   
   --------------------------------------------------
 #  Arrangement /Deveopment
