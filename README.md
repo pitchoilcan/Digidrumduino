@@ -100,7 +100,7 @@ Spring 2016
    
    SPI.h // VS1053 //
 # Build your own
- DIY INPUT TIGGERS
+ DIY INPUT TRIGGERS
 #  The sensors (scalability i.e. up to 48)
 
  Ingredients: (Per INPUT SENSOR) 1 PIEZO , 1 resistor, 1 capacitor 1 schottky diode;
