@@ -125,6 +125,11 @@ Spring 2016
   
   Adjustabe INPUT SENSIBILITY.
   
+  -----------------------------
+  
+  Visual indicators
+  
+  ------------------------------
   ------------------------------
   
   Sampling capabiities 
